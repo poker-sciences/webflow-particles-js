@@ -16,9 +16,6 @@
         "width": 0,
         "color": "#000000"
       },
-      "polygon": {
-        "nb_sides": 5
-      },
       "image": {
         "src": "https://uploads-ssl.webflow.com/659b055e182168928f92d2a3/65d49cd0c6bd6079cdfa8b1c_jeton_poker_rouge.svg",
         "width": 100,
@@ -26,7 +23,7 @@
       }
     },
     "opacity": {
-      "value": 0.5,
+      "value": 1,
       "random": false,
       "anim": {
         "enable": false,
