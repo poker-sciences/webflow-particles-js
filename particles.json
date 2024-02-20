@@ -11,13 +11,13 @@
       "value": "#ffffff"
     },
     "shape": {
-      "type": "circle",
+      "type": "image",
       "stroke": {
         "width": 0,
         "color": "#000000"
       },
       "image": {
-        "src": "https://uploads-ssl.webflow.com/659b055e182168928f92d2a3/65d49cd0c6bd6079cdfa8b1c_jeton_poker_rouge.svg",
+        "src": "https://uploads-ssl.webflow.com/659b055e182168928f92d2a3/65d4b8938f3949f07894b854_jeton_poker_rouge.png",
         "width": 100,
         "height": 100
       }
@@ -51,7 +51,7 @@
     },
     "move": {
       "enable": true,
-      "speed": 0.2,
+      "speed": 3,
       "direction": "bottom",
       "random": false,
       "straight": false,
